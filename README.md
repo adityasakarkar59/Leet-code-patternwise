@@ -16,3 +16,11 @@ Input: head = [1,1,1,2,3]
 Output: [2,3]
  
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0263-ugly-number) |
+<!---LeetCode Topics End-->
