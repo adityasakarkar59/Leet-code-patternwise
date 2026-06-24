@@ -58,4 +58,8 @@ Output: [2,3]
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
