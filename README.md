@@ -38,6 +38,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -49,11 +50,13 @@ Output: [2,3]
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
