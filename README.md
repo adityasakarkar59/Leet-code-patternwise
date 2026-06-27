@@ -76,6 +76,7 @@ Output: [2,3]
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1789-primary-department-for-each-employee) |
 ## Divide and Conquer
 |  |
 | ------- |
