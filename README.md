@@ -41,6 +41,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
@@ -56,6 +57,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +65,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
@@ -73,4 +76,8 @@ Output: [2,3]
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
