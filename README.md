@@ -26,6 +26,7 @@ Output: [2,3]
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
@@ -57,6 +58,7 @@ Output: [2,3]
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
