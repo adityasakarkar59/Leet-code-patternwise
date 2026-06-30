@@ -23,6 +23,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2652-sum-multiples) |
@@ -89,6 +90,7 @@ Output: [2,3]
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
@@ -120,4 +122,8 @@ Output: [2,3]
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
