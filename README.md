@@ -23,6 +23,7 @@ Output: [2,3]
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0263-ugly-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -113,4 +114,8 @@ Output: [2,3]
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
